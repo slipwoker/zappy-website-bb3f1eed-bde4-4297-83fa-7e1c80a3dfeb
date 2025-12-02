@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://israeliwins-bb3f1eed.zappy5.app/sitemap.xml
